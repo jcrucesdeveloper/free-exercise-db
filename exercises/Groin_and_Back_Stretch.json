@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "adductors"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit on the floor with your knees bent and feet together.",
     "Interlock your fingers behind your head. This will be your starting position.",
@@ -17,8 +15,8 @@
   ],
   "category": "stretching",
   "images": [
-    "Groin_and_Back_Stretch/0.jpg",
-    "Groin_and_Back_Stretch/1.jpg"
+    "Groin_and_Back_Stretch/0.webp",
+    "Groin_and_Back_Stretch/1.webp"
   ],
   "id": "Groin_and_Back_Stretch"
 }

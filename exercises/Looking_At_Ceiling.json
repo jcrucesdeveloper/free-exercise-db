@@ -7,17 +7,15 @@
   "primaryMuscles": [
     "quadriceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Kneel on the floor, holding your heels with both hands.",
     "Lift your buttocks up and forward while bringing your head back to look up at the ceiling, to give an arch in your back."
   ],
   "category": "stretching",
   "images": [
-    "Looking_At_Ceiling/0.jpg",
-    "Looking_At_Ceiling/1.jpg"
+    "Looking_At_Ceiling/0.webp",
+    "Looking_At_Ceiling/1.webp"
   ],
   "id": "Looking_At_Ceiling"
 }

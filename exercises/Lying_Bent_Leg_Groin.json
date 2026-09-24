@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "adductors"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on your back with your knees bent and the soles of the feet pressed together. Have your partner hold your knees. This will be your starting position.",
     "Attempt to squeeze your knees together, while your partner prevents any movement from occurring.",
@@ -17,8 +15,8 @@
   ],
   "category": "stretching",
   "images": [
-    "Lying_Bent_Leg_Groin/0.jpg",
-    "Lying_Bent_Leg_Groin/1.jpg"
+    "Lying_Bent_Leg_Groin/0.webp",
+    "Lying_Bent_Leg_Groin/1.webp"
   ],
   "id": "Lying_Bent_Leg_Groin"
 }

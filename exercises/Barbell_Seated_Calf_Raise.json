@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a block about 12 inches in front of a flat bench.",
     "Sit on the bench and place the ball of your feet on the block.",
@@ -20,8 +18,8 @@
   ],
   "category": "strength",
   "images": [
-    "Barbell_Seated_Calf_Raise/0.jpg",
-    "Barbell_Seated_Calf_Raise/1.jpg"
+    "Barbell_Seated_Calf_Raise/0.webp",
+    "Barbell_Seated_Calf_Raise/1.webp"
   ],
   "id": "Barbell_Seated_Calf_Raise"
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "traps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Position yourself on the calf machine so that the shoulder pads are above your shoulders. Your torso should be straight with the arms extended normally by your side. This will be your starting position.",
     "Raise your shoulders up towards your ears as you exhale and hold the contraction for a full second.",
@@ -18,8 +16,8 @@
   ],
   "category": "strength",
   "images": [
-    "Calf-Machine_Shoulder_Shrug/0.jpg",
-    "Calf-Machine_Shoulder_Shrug/1.jpg"
+    "Calf-Machine_Shoulder_Shrug/0.webp",
+    "Calf-Machine_Shoulder_Shrug/1.webp"
   ],
   "id": "Calf-Machine_Shoulder_Shrug"
 }

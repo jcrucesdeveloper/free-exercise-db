@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "hamstrings"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on your back with one leg extended above you, with the hip at ninety degrees. Keep the other leg flat on the floor.",
     "Loop a belt, band, or rope over the ball of your foot. This will be your starting position.",
@@ -17,8 +15,8 @@
   ],
   "category": "stretching",
   "images": [
-    "Hamstring_Stretch/0.jpg",
-    "Hamstring_Stretch/1.jpg"
+    "Hamstring_Stretch/0.webp",
+    "Hamstring_Stretch/1.webp"
   ],
   "id": "Hamstring_Stretch"
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "For this exercise anchor a band to the ground. We used an incline bench and anchored the band to the base, standing over the bench. Alternatively, this could be performed standing on the band.",
     "To begin, pull the band behind your head, holding it with a pronated grip and your elbows up. This will be your starting position.",
@@ -18,8 +16,8 @@
   ],
   "category": "strength",
   "images": [
-    "Speed_Band_Overhead_Triceps/0.jpg",
-    "Speed_Band_Overhead_Triceps/1.jpg"
+    "Speed_Band_Overhead_Triceps/0.webp",
+    "Speed_Band_Overhead_Triceps/1.webp"
   ],
   "id": "Speed_Band_Overhead_Triceps"
 }

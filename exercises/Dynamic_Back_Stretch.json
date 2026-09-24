@@ -7,17 +7,15 @@
   "primaryMuscles": [
     "lats"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand with your feet shoulder width apart. This will be your starting position.",
     "Keeping your arms straight, swing them straight up in front of you 5-10 times, increasing the range of motion each time until your arms are above your head."
   ],
   "category": "stretching",
   "images": [
-    "Dynamic_Back_Stretch/0.jpg",
-    "Dynamic_Back_Stretch/1.jpg"
+    "Dynamic_Back_Stretch/0.webp",
+    "Dynamic_Back_Stretch/1.webp"
   ],
   "id": "Dynamic_Back_Stretch"
 }

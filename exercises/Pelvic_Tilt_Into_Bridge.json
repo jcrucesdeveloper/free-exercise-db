@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "lower back"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie down with your feet on the floor, heels directly under your knees.",
     "Lift only your tailbone to the ceiling to stretch your lower back. (Don't lift the entire spine yet.) Pull in your stomach.",
@@ -17,8 +15,8 @@
   ],
   "category": "stretching",
   "images": [
-    "Pelvic_Tilt_Into_Bridge/0.jpg",
-    "Pelvic_Tilt_Into_Bridge/1.jpg"
+    "Pelvic_Tilt_Into_Bridge/0.webp",
+    "Pelvic_Tilt_Into_Bridge/1.webp"
   ],
   "id": "Pelvic_Tilt_Into_Bridge"
 }

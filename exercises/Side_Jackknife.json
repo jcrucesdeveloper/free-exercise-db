@@ -7,16 +7,12 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
-  "instructions": [
-
-  ],
+  "secondaryMuscles": [],
+  "instructions": [],
   "category": "strength",
   "images": [
-    "Side_Jackknife/0.jpg",
-    "Side_Jackknife/1.jpg"
+    "Side_Jackknife/0.webp",
+    "Side_Jackknife/1.webp"
   ],
   "id": "Side_Jackknife"
 }

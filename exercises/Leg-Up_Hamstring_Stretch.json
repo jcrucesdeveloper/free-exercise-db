@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "hamstrings"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie flat on your back, bend one knee, and put that foot flat on the floor to stabilize your spine.",
     "Extend the other leg in the air. If you're tight, you wont be able to straighten it. That's okay. Extend the knee so that the sole of the lifted foot faces the ceiling (or as close as you can get it).",
@@ -17,8 +15,8 @@
   ],
   "category": "stretching",
   "images": [
-    "Leg-Up_Hamstring_Stretch/0.jpg",
-    "Leg-Up_Hamstring_Stretch/1.jpg"
+    "Leg-Up_Hamstring_Stretch/0.webp",
+    "Leg-Up_Hamstring_Stretch/1.webp"
   ],
   "id": "Leg-Up_Hamstring_Stretch"
 }

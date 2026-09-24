@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "adductors"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Anchor a band around a solid post or other object.",
     "Stand with your left side to the post, and put your right foot through the band, getting it around the ankle.",
@@ -20,8 +18,8 @@
   ],
   "category": "strength",
   "images": [
-    "Band_Hip_Adductions/0.jpg",
-    "Band_Hip_Adductions/1.jpg"
+    "Band_Hip_Adductions/0.webp",
+    "Band_Hip_Adductions/1.webp"
   ],
   "id": "Band_Hip_Adductions"
 }

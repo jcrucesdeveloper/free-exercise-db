@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a couple of dumbbells looking forward in front of a flat bench.",
     "Sit on the end of the bench with your legs together and the dumbbells behind your calves.",
@@ -20,8 +18,8 @@
   ],
   "category": "strength",
   "images": [
-    "Seated_Bent-Over_Rear_Delt_Raise/0.jpg",
-    "Seated_Bent-Over_Rear_Delt_Raise/1.jpg"
+    "Seated_Bent-Over_Rear_Delt_Raise/0.webp",
+    "Seated_Bent-Over_Rear_Delt_Raise/1.webp"
   ],
   "id": "Seated_Bent-Over_Rear_Delt_Raise"
 }

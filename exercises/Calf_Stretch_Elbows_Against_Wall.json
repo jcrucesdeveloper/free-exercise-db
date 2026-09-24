@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand facing a wall from a couple feet away.",
     "Lean against the wall, placing your weight on your forearms.",
@@ -17,8 +15,8 @@
   ],
   "category": "stretching",
   "images": [
-    "Calf_Stretch_Elbows_Against_Wall/0.jpg",
-    "Calf_Stretch_Elbows_Against_Wall/1.jpg"
+    "Calf_Stretch_Elbows_Against_Wall/0.webp",
+    "Calf_Stretch_Elbows_Against_Wall/1.webp"
   ],
   "id": "Calf_Stretch_Elbows_Against_Wall"
 }
